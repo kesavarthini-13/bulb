@@ -1,0 +1,16 @@
+body
+{
+background:bisque ;
+}
+#bulb
+{
+    margin: auto;
+    padding-left: 40%;
+    padding-top: 5%;
+}
+#heading
+{
+   text-align: center;
+    border-color: beige;
+
+}
